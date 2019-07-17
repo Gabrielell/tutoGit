@@ -1,0 +1,1 @@
+ceci est une initialisation à Git et Github
